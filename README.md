@@ -1,5 +1,6 @@
 # Flask To-Do Application
 [![Turkish](https://img.shields.io/badge/Dil-Türkçe-blue)](https://github.com/MuratZGunes/flasktodoapp/tree/main/README_TR.md)  
+
 This project is a simple **To-Do List Application** developed using Flask. The application allows users to add tasks, update their completion status, and delete tasks.
 
 ---
